@@ -26,6 +26,11 @@ I have won First Prize in the RoboMaster University Championship and First Prize
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # 🔥 News
 - *2023.10.27*: &nbsp;🎉🎉 The paper *"[Saliency-Guided Hidden Associative Replay for Continual Learning](https://arxiv.org/abs/2310.04334)"* has been accepted by the neuralPS workshop, and continues to be improved upon.
