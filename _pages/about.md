@@ -48,7 +48,8 @@ I have won First Prize in the RoboMaster University Championship and First Prize
 
 [**Project**](https://github.com/thisisnotahuman/FullySNNforLeggedRobots) <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
-- In this paper, we successfully apply a novel Spiking Neural Network (SNN) to process legged robots, achieving outstanding results across a range of simulated terrains. To the best of our knowledge, this is the first work to implement SNN in legged robots. 
+- In this paper, we successfully apply a novel Spiking Neural Network (SNN) to process legged robots, achieving outstanding results across a range of simulated terrains. To the best of our knowledge, this is the first work to implement SNN in legged robots.
+- Currently under review at ICRA.
 </div>
 </div>
 
@@ -61,7 +62,8 @@ I have won First Prize in the RoboMaster University Championship and First Prize
 
 <!-- [**Project**](https://github.com/thisisnotahuman/FullySNNforLeggedRobots) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
-- This paper presents the Saliency Guided Hidden Associative Replay for Continual Learning. SHARC primarily archives salient data segments via sparse memory encoding. Importantly, by harnessing associative memory paradigms, it introduces a content focused memory retrieval mechanism, promising swift and near-perfect recall, bringing CL a step closer to authentic human memory processes. 
+- This paper presents the Saliency Guided Hidden Associative Replay for Continual Learning. SHARC primarily archives salient data segments via sparse memory encoding. Importantly, by harnessing associative memory paradigms, it introduces a content focused memory retrieval mechanism, promising swift and near-perfect recall, bringing CL a step closer to authentic human memory processes.
+- Accepted at NeurIPS 2023 Workshops.
 </div>
 </div>
 
@@ -75,6 +77,7 @@ I have won First Prize in the RoboMaster University Championship and First Prize
 <!-- [**Project**](https://github.com/thisisnotahuman/FullySNNforLeggedRobots) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 - We present a novel approach that combines adversarial imitation learning with large language models (LLMs). This innovative method enables the agent to learn reusable skills with a single policy and solve zero-shot tasks under the guidance of LLMs. To the best of our knowledge, this is the first framework that controls humanoid robots using a single learning policy network and LLM as a planner.
+- Currently under review at ICRA.
 </div>
 </div>
 
