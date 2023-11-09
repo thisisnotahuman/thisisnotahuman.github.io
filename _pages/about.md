@@ -28,7 +28,7 @@ I have won First Prize in the RoboMaster University Championship and First Prize
 
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 Now that the code for A is open source at B
+- *2023.10*: &nbsp;🎉🎉 Now that the code for *"[Fully Spiking Neural Network for Legged Robots](https://arxiv.org/abs/2310.05022)"* is open source at <https://markdown.com.cn>
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
