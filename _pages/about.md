@@ -62,6 +62,21 @@ I have won First Prize in the RoboMaster University Championship and First Prize
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/sharc_overall_00.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning](https://arxiv.org/abs/2309.11359)
+
+**Jingkai Sun**, **Qiang Zhang**, Yiqun Duan, Xiaoyang Jiang, Chong Cheng, Renjing Xu
+
+<!-- [**Project**](https://github.com/thisisnotahuman/FullySNNforLeggedRobots) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
+- We present a novel approach that combines adversarial imitation learning with large language models (LLMs). This innovative method enables the agent to learn reusable skills with a single policy and solve zero-shot tasks under the guidance of LLMs. To the best of our knowledge, this is the first framework that controls humanoid robots using a single learning policy network and LLM as a planner.
+</div>
+</div>
+
+
+
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
