@@ -46,7 +46,7 @@ I have won First Prize in the RoboMaster University Championship and First Prize
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/mithumanoid.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/sharc_overall.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Saliency-Guided Hidden Associative Replay for Continual Learning](https://arxiv.org/abs/2310.04334)
