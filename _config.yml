@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaoyang Jiang"
-description              : "Final year student of Northeastern University"
+description              : "Be water."
 repository               : "thisisnotahuman/thisisnotahuman.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Xiaoyang Jiang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Faculty of Robot Science and Engineering, Northeastern University"
+  location         : "Shenyang, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=yZy2oFvWFYAC"
+  email            : "jxxxxxygoat@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/thisisnotahuman" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
