@@ -40,9 +40,22 @@ I have won First Prize in the RoboMaster University Championship and First Prize
 
 **Xiaoyang Jiang**, **Qiang Zhang**, Jingkai Sun, Renjin Xu
 
-[**Project**](https://github.com/thisisnotahuman/FullySNNforLeggedRobots) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/thisisnotahuman/FullySNNforLeggedRobots) <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 - In this paper, we successfully apply a novel Spiking Neural Network (SNN) to process legged robots, achieving outstanding results across a range of simulated terrains. To the best of our knowledge, this is the first work to implement SNN in legged robots. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/mithumanoid.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Saliency-Guided Hidden Associative Replay for Continual Learning](https://arxiv.org/abs/2310.04334)
+
+**Guangji Bai**, Qilong Zhao, Xiaoyang Jiang, Yifei Zhang, Liang Zhao
+
+<!-- [**Project**](https://github.com/thisisnotahuman/FullySNNforLeggedRobots) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
+- This paper presents the Saliency Guided Hidden Associative Replay for Continual Learning. SHARC primarily archives salient data segments via sparse memory encoding. Importantly, by harnessing associative memory paradigms, it introduces a content focused memory retrieval mechanism, promising swift and near-perfect recall, bringing CL a step closer to authentic human memory processes. 
 </div>
 </div>
 
