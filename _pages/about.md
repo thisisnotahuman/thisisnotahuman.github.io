@@ -33,7 +33,7 @@ I have won First Prize in the RoboMaster University Championship and First Prize
   
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/mithumanoid.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fully Spiking Neural Network for Legged Robots](https://arxiv.org/abs/2310.05022)
