@@ -31,7 +31,7 @@ I have won First Prize in the RoboMaster University Championship and First Prize
 - *2023.10.27*: &nbsp;🎉🎉 The paper *"[Saliency-Guided Hidden Associative Replay for Continual Learning](https://arxiv.org/abs/2310.04334)"* has been accepted by the neuralPS workshop, and continues to be improved upon.
 - *2023.10.15*: &nbsp;🎉🎉 The code for *"[Fully Spiking Neural Network for Legged Robots](https://arxiv.org/abs/2310.05022)"* is now open source at <https://github.com/thisisnotahuman/FullySNNforLeggedRobots> ~
   
-# 📝 Publications 
+# 📝 Papers 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/mithumanoid.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,11 +42,11 @@ I have won First Prize in the RoboMaster University Championship and First Prize
 
 [**Project**](https://github.com/thisisnotahuman/FullySNNforLeggedRobots) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
--  In this paper, we successfully apply a novel Spiking Neural Network (SNN) to process legged robots, achieving outstanding results across a range of simulated terrains. To the best of our knowledge, this is the first work to implement SNN in legged robots. 
+- In this paper, we successfully apply a novel Spiking Neural Network (SNN) to process legged robots, achieving outstanding results across a range of simulated terrains. To the best of our knowledge, this is the first work to implement SNN in legged robots. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
