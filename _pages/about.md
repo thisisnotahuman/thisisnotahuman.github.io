@@ -40,7 +40,7 @@ I have won First Prize in the RoboMaster University Championship and First Prize
 <br>
 
 # 🔥 News
-- *2023.10.27*: &nbsp;🎉🎉 The paper *"[Saliency-Guided Hidden Associative Replay for Continual Learning](https://arxiv.org/abs/2310.04334)"* has been accepted by the neuralPS workshop, and continues to be improved upon.
+- *2023.10.27*: &nbsp;🎉🎉 The paper *"[Saliency-Guided Hidden Associative Replay for Continual Learning](https://arxiv.org/abs/2310.04334)"* has been accepted by the NeuralPS workshop, and continues to be improved upon.
 - *2023.10.15*: &nbsp;🎉🎉 The code for *"[Fully Spiking Neural Network for Legged Robots](https://arxiv.org/abs/2310.05022)"* is now open source at <https://github.com/thisisnotahuman/FullySNNforLeggedRobots> ~
   
 # 📝 Papers 
@@ -58,7 +58,7 @@ I have won First Prize in the RoboMaster University Championship and First Prize
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/sharc_overall.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/sharc_overall_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Saliency-Guided Hidden Associative Replay for Continual Learning](https://arxiv.org/abs/2310.04334)
