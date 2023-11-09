@@ -17,6 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 I am currently a senior at Northeastern University in the Faculty of Robot Science and Engineering.
 
 My research interest includes Artificial Intelligence, Robotics and Neuromorphic Computing. 
