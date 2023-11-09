@@ -42,7 +42,7 @@ I have won First Prize in the RoboMaster University Championship and First Prize
 
 [**Project**](https://github.com/thisisnotahuman/FullySNNforLeggedRobots) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-  In this paper, we successfully apply a novel Spiking Neural Network (SNN) to process legged robots, achieving outstanding results across a range of simulated terrains. To the best of our knowledge, this is the first work to implement SNN in legged robots. 
 </div>
 </div>
 
