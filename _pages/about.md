@@ -20,7 +20,7 @@ redirect_from:
 
 I am currently a senior at Northeastern University in the Faculty of Robot Science and Engineering.
 
-My research interest includes Artificial Intelligence, Robotics and Neuromorphic Computing. 
+I am interested in Artificial Intelligence, Robotics and Neuromorphic Computing. 
 
 I have won First Prize in the RoboMaster University Championship and First Prize in the RoboMaster Infantry Racing and Intelligent Shooting programs as a member of the T-DT Vision Group. 
 
@@ -87,7 +87,7 @@ I have won First Prize in the RoboMaster University Championship and First Prize
 - *2020.11* Third Prize in the National English Competition for College Students held by TEFL China
 
 # 📖 Educations
-- *2020.09 - 2024.07 (now)*, Faculty of Robot Science and Engineering, Northeastern University. 
+- *2020.09 - 2024.07 (now)*, Undergraduate, Faculty of Robot Science and Engineering, Northeastern University. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
