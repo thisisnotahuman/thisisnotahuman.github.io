@@ -20,7 +20,7 @@ redirect_from:
 
 I am currently a senior at Northeastern University in the Faculty of Robot Science and Engineering.
 
-I am interested in Artificial Intelligence, Robotics and Neuromorphic Computing. In addition, I've worked on projects related to Reinforcement Learning, Incremental Learning, Generative Models, Point Clouds, and GNN.
+I am interested in Artificial Intelligence, Robotics and Neuromorphic Computing. In addition, I have worked on projects related to Reinforcement Learning, Incremental Learning, Generative Models, Point Clouds, and GNN.
 
 I have won First Prize in the RoboMaster University Championship and First Prize in the RoboMaster Infantry Racing and Intelligent Shooting programs as a member of the T-DT Vision Group. 
 
