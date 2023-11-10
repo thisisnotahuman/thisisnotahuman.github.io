@@ -100,4 +100,4 @@ I have won First Prize in the RoboMaster University Championship and First Prize
 
 # 💻 Internships
 - *2022.09 - 2023.09*, Microelectronics Thrust, Function Hub, HKUST (GZ)
-- *2022.05 - 2023.10*, Associative Memory Replay Group at Emory University
+- *2022.05 - 2023.10*, Incremental Learning Group at Emory University
