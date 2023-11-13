@@ -30,7 +30,6 @@ I have won First Prize in the RoboMaster University Championship and First Prize
 <br>
 <br>
 <br>
-<br>
 
 
 # 🔥 News
