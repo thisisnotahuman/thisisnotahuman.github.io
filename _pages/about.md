@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a senior at Northeastern University in the Faculty of Robot Science and Engineering.
+I am currently a senior at Northeastern University in the Faculty of Robot Science and Engineering, and will join NYU DS in 24 fall.
 
 I am interested in Artificial Intelligence, Robotics and Neuromorphic Computing. In addition, I have worked on projects related to Reinforcement Learning, Incremental Learning, Generative Models, Point Clouds, and GNN.
 
