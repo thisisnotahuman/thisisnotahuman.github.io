@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiaoyang Jiang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Faculty of Robot Science and Engineering, Northeastern University"
-  location         : "Shenyang, China"
+  bio              : "Center of Data Science, New York University"
+  location         : "New York, United States"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=yZy2oFvWFYAC"
-  email            : "jxxxxxygoat@gmail.com"
+  email            : "xj2366@nyu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "Xiaoyang (Xavier) Jiang"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
