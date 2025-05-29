@@ -18,11 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a senior at Northeastern University in the Faculty of Robot Science and Engineering, and will join NYU DS in 24 fall.
+I am currently a master's student in Data Science at New York University.
 
-I am interested in Artificial Intelligence, Robotics and Neuromorphic Computing. In addition, I have worked on projects related to Reinforcement Learning, Incremental Learning, Generative Models, Point Clouds, and GNN.
+I am interested in Artificial Intelligence and Robotics. 
 
-I have won First Prize in the RoboMaster University Championship and First Prize in the RoboMaster Infantry Racing and Intelligent Shooting programs as a member of the T-DT Vision Group. 
+In addition, I have worked on projects related to Reinforcement Learning, Neuromorphic Computing (Spiking Neural Network), Continual Learning, Contrastive Learning and Large Language Models.
+
+I have Frosty — the cutest little cat ever🐱
 
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -41,14 +43,14 @@ I have won First Prize in the RoboMaster University Championship and First Prize
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/mithumanoid.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fully Spiking Neural Network for Legged Robots](https://arxiv.org/abs/2310.05022)
+[Fully Spiking Neural Network for Legged Robots](https://ieeexplore.ieee.org/document/10890793)
 
-**Xiaoyang Jiang**, **Qiang Zhang**, Jingkai Sun, Renjin Xu
+**Xiaoyang Jiang**, **Qiang Zhang**, Jingkai Sun, Jiahang Cao, Jingtong Ma, Renjing Xu
 
 [**Project**](https://github.com/thisisnotahuman/FullySNNforLeggedRobots) <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
-- In this paper, we successfully apply a novel Spiking Neural Network (SNN) to process legged robots, achieving outstanding results across a range of simulated terrains. To the best of our knowledge, this is the first work to implement SNN in legged robots.
-- Currently under review at IROS.
+- In this paper, we successfully apply a lightweight population coded Spiking Neural Network (SNN) to process legged robots, achieving outstanding results across a range of simulated terrains. This study presents a highly efficient SNN for legged robots that can be seamless integrated into other learning models.
+- Paper accepted for oral presentation at ICASSP 2025.
 </div>
 </div>
 
@@ -69,14 +71,14 @@ I have won First Prize in the RoboMaster University Championship and First Prize
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning](https://arxiv.org/abs/2309.11359)
+[Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning](https://ieeexplore.ieee.org/abstract/document/10610948)
 
 **Jingkai Sun**, **Qiang Zhang**, Yiqun Duan, Xiaoyang Jiang, Chong Cheng, Renjing Xu
 
 <!-- [**Project**](https://github.com/thisisnotahuman/FullySNNforLeggedRobots) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 - We present a novel approach that combines adversarial imitation learning with large language models (LLMs). This innovative method enables the agent to learn reusable skills with a single policy and solve zero-shot tasks under the guidance of LLMs. To the best of our knowledge, this is the first framework that controls humanoid robots using a single learning policy network and LLM as a planner.
-- Accepted at ICRA 2023.
+- Accepted at ICRA 2024.
 </div>
 </div>
 
@@ -84,19 +86,22 @@ I have won First Prize in the RoboMaster University Championship and First Prize
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2020,2021&2022.11* Excellent Student Scholarship granted by Northeastern University 
+- *2020 - 2024* Excellent Student Scholarship granted by Northeastern University 
 - *2022.06* Silver Prize in Liaoning in China College Students' Internet Plus Innovation and Entrepreneurship Competition held by the Ministry of Education
 - *2022.04* National Third Prize in the Underwater Operations Program in China Robot Contest co-held by China Association of Automation and Chinese RoboCup Committee
 - *2020.08* First Prize in the RoboMaster University Championship and First Prize in the RoboMaster Infantry Racing and Intelligent Shooting programs, funded and organized by DJI
 - *2020.11* Third Prize in the National English Competition for College Students held by TEFL China
 
 # 📖 Educations
-- *2020.09 - 2024.07 (now)*, Undergraduate, Faculty of Robot Science and Engineering, Northeastern University. 
+- *2024.09 - 2026.05 (now)*, M.S. in Data Science, Center for Data Science, New York University.
+- *2020.09 - 2024.07*, B.Eng. in Robotics Engineering, Faculty of Robot Science and Engineering, Northeastern University. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2022.09 - 2024.03*, Microelectronics Thrust, Function Hub, HKUST (GZ)
-- *2023.04 - 2023.11*, Incremental Learning Group at Emory University
+# 💻 Professional Experience
+- *2024.09 - now*, CILVR Lab, NYU
+- *2022.09 - 2024.07*, Microelectronics Thrust, Function Hub, HKUST
+- *2023.04 - 2023.11*, Incremental Learning Group, Emory University
+- *2020.08 - 2021.08*, T-DT Innovation Laboratory, Northeastern University
