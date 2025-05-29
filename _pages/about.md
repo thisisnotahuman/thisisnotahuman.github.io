@@ -40,7 +40,7 @@ And I have Frosty — the cutest little cat ever🐱
   
 # 📝 Papers 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/mithumanoid.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/mithumanoid.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fully Spiking Neural Network for Legged Robots](https://ieeexplore.ieee.org/document/10890793)
@@ -54,7 +54,7 @@ And I have Frosty — the cutest little cat ever🐱
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/sharc_overall_00.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023 Workshops</div><img src='images/sharc_overall_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Saliency-Guided Hidden Associative Replay for Continual Learning](https://arxiv.org/abs/2310.04334)
@@ -68,7 +68,7 @@ And I have Frosty — the cutest little cat ever🐱
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning](https://ieeexplore.ieee.org/abstract/document/10610948)
