@@ -37,6 +37,32 @@ And I have Frosty — the cutest little cat ever🐱
 <!-- # 🔥 News
 - *2023.10.27*: &nbsp;🎉🎉 The paper *"[Saliency-Guided Hidden Associative Replay for Continual Learning](https://arxiv.org/abs/2310.04334)"* has been accepted by the NeurlPS workshop.
 - *2023.10.15*: &nbsp;🎉🎉 The code for *"[Fully Spiking Neural Network for Legged Robots](https://arxiv.org/abs/2310.05022)"* is now open source at <https://github.com/thisisnotahuman/FullySNNforLeggedRobots> ~ -->
+
+# 🚧 Ongoing Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NYU × NWU</div><img src='images/memorystoryboard.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Memory Storyboard: Online Spatio-Temporal Segmentation for Egocentric Video Understanding](https://github.com/xj2366/memorystoryboard)
+
+**Xiaoyang Jiang**, Mengye Ren, Brenden Lake, Manling Li
+
+- Developing an online segmentation framework that incrementally refines temporal coherence and semantic persistence in egocentric 4D reconstructions.  
+- Combines CUT3R-based global memory with task-driven affordance prediction, enabling subtask-level temporal grounding for embodied agents.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAD–Sonata</div><img src='images/uadsonata.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unsupervised Affordance Distillation on Dynamic 3D Memory](https://github.com/xj2366/uad-sonata)
+
+**Xiaoyang Jiang**, Mengye Ren, Brenden Lake
+
+- Integrates CUT3R’s dynamic reconstruction with UAD-style contrastive learning for multi-granularity affordance reasoning.  
+- The project explores language-conditioned completion and progress tracking across subtasks (e.g., “pick up cup → pour water → open fridge”).
+</div>
+</div>
   
 # 📝 Papers 
 
