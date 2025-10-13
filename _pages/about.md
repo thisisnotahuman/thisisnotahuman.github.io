@@ -40,11 +40,14 @@ And I have Frosty — the cutest little cat ever🐱
 
 # 🚧 Ongoing Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NYU × NWU</div><img src='images/memorystoryboard.png' alt="sym" width="100%"></div></div>
+<!--
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Continual Multimodal Contrastive Learning</div><img src='images/memorystoryboard.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+-->
 
-[Memory Storyboard: Online Spatio-Temporal Segmentation for Egocentric Video Understanding](https://github.com/xj2366/memorystoryboard)
+[CMCL: Continual Multimodal Contrastive Learning](https://docs.google.com/presentation/d/1OWy31tBuEgkkjruwrxHcb1Kc0WNHtBNNOG2g6v8so0E/edit?usp=sharing)
 
+<!--
 **Xiaoyang Jiang**, Mengye Ren, Brenden Lake, Manling Li
 
 - Developing an online segmentation framework that incrementally refines temporal coherence and semantic persistence in egocentric 4D reconstructions.  
@@ -63,6 +66,7 @@ And I have Frosty — the cutest little cat ever🐱
 - The project explores language-conditioned completion and progress tracking across subtasks (e.g., “pick up cup → pour water → open fridge”).
 </div>
 </div>
+-->
   
 # 📝 Papers 
 
