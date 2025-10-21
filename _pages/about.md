@@ -22,7 +22,7 @@ I am currently a master's student in Data Science at New York University.
 
 I am interested in Artificial Intelligence and Robotics. 
 
-In addition, I have worked on projects related to Reinforcement Learning, Neuromorphic Computing (Spiking Neural Network), Continual Learning, Contrastive Learning and Large Language Models.
+In addition, I have worked on projects related to Contrastive Learning, Vision Language Models, Continual Learning, Reinforcement Learning, and Neuromorphic Computing (Spiking Neural Network).
 
 And I have Frosty — the cutest little cat ever :33333333
 
