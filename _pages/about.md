@@ -24,6 +24,8 @@ I am interested in Artificial Intelligence and Robotics.
 
 In addition, I have worked on projects related to Contrastive Learning, Vision Language Models, Continual Learning, Reinforcement Learning, and Neuromorphic Computing (Spiking Neural Network).
 
+I like gaming 🎮, badminton 🏸, and rock climbing 🧗‍♂️.
+
 And I have Frosty — the cutest little cat ever :33333333
 
 
