@@ -86,19 +86,6 @@ And I have Frosty — the cutest little cat ever :33333333
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023 Workshops</div><img src='images/sharc_overall_00.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Saliency-Guided Hidden Associative Replay for Continual Learning](https://arxiv.org/abs/2310.04334)
-
-**Guangji Bai**, Qilong Zhao, Xiaoyang Jiang, Yifei Zhang, Liang Zhao
-
-<!-- [**Project**](https://github.com/thisisnotahuman/FullySNNforLeggedRobots) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-
-- This paper presents the Saliency Guided Hidden Associative Replay for Continual Learning. SHARC primarily archives salient data segments via sparse memory encoding. Importantly, by harnessing associative memory paradigms, it introduces a content focused memory retrieval mechanism, promising swift and near-perfect recall, bringing CL a step closer to authentic human memory processes.
-- Accepted at NeurIPS 2023 Workshops.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -111,6 +98,21 @@ And I have Frosty — the cutest little cat ever :33333333
 
 - We present a novel approach that combines adversarial imitation learning with large language models (LLMs). This innovative method enables the agent to learn reusable skills with a single policy and solve zero-shot tasks under the guidance of LLMs. To the best of our knowledge, this is the first framework that controls humanoid robots using a single learning policy network and LLM as a planner.
 - Accepted at ICRA 2024.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023 Workshops</div><img src='images/sharc_overall_00.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Saliency-Guided Hidden Associative Replay for Continual Learning](https://arxiv.org/abs/2310.04334)
+
+**Guangji Bai**, Qilong Zhao, Xiaoyang Jiang, Yifei Zhang, Liang Zhao
+
+<!-- [**Project**](https://github.com/thisisnotahuman/FullySNNforLeggedRobots) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
+- This paper presents the Saliency Guided Hidden Associative Replay for Continual Learning. SHARC primarily archives salient data segments via sparse memory encoding. Importantly, by harnessing associative memory paradigms, it introduces a content focused memory retrieval mechanism, promising swift and near-perfect recall, bringing CL a step closer to authentic human memory processes.
+- Accepted at NeurIPS 2023 Workshops.
 </div>
 </div>
 
