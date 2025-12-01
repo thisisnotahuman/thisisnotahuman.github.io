@@ -122,7 +122,6 @@ And I have Frosty — the cutest little cat ever :33333333
 - *2022.06* Silver Prize in Liaoning in China College Students' Internet Plus Innovation and Entrepreneurship Competition held by the Ministry of Education
 - *2022.04* National Third Prize in the Underwater Operations Program in China Robot Contest co-held by China Association of Automation and Chinese RoboCup Committee
 - *2020.08* First Prize in the RoboMaster University Championship and First Prize in the RoboMaster Infantry Racing and Intelligent Shooting programs, funded and organized by DJI
-- *2020.11* Third Prize in the National English Competition for College Students held by TEFL China
 
 # 📖 Educations
 - *2024.09 - 2026.05 (now)*, M.S. in Data Science, Center for Data Science, New York University.
