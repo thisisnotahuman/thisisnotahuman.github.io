@@ -146,16 +146,16 @@ Hierarchical Classification of Near-Death Experience Narratives
 # 🐈 Frosty
 
 <div class="gallery-grid">
-  <a href="images/f1.png" class="gallery-item image-popup">
-    <img src="images/f1.png" alt="Frosty 1">
+  <a href="images/f1.jpg" class="gallery-item image-popup">
+    <img src="images/f1.jpg" alt="Frosty 1">
   </a>
-  <a href="images/f2.png" class="gallery-item image-popup">
-    <img src="images/f2.png" alt="Frosty 2">
+  <a href="images/f2.jpg" class="gallery-item image-popup">
+    <img src="images/f2.jpg" alt="Frosty 2">
   </a>
-  <a href="images/f3.png" class="gallery-item image-popup">
-    <img src="images/f3.png" alt="Frosty 3">
+  <a href="images/f3.jpg" class="gallery-item image-popup">
+    <img src="images/f3.jpg" alt="Frosty 3">
   </a>
-  <a href="images/f4.png" class="gallery-item image-popup">
-    <img src="images/f4.png" alt="Frosty 4">
+  <a href="images/f4.jpg" class="gallery-item image-popup">
+    <img src="images/f4.jpg" alt="Frosty 4">
   </a>
 </div>
