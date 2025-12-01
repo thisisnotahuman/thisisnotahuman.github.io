@@ -45,7 +45,9 @@ And I have Frosty — the cutest little cat ever :33333333
 <div class='paper-box-text' markdown="1">
 -->
 
-[CMCL: Continual Multimodal Contrastive Learning](https://docs.google.com/presentation/d/1OWy31tBuEgkkjruwrxHcb1Kc0WNHtBNNOG2g6v8so0E/edit?usp=sharing)
+<!--[-->
+CMCL: Continual Multimodal Contrastive Learning
+<!--](https://docs.google.com/presentation/d/1OWy31tBuEgkkjruwrxHcb1Kc0WNHtBNNOG2g6v8so0E/edit?usp=sharing)-->
 
 <!--
 **Xiaoyang Jiang**, Mengye Ren, Brenden Lake, Manling Li
