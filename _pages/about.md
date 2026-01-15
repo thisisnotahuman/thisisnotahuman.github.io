@@ -22,7 +22,7 @@ I am currently a master's student in Data Science at New York University.
 
 I am interested in Multimodal Representation Learning, Continual Learning, Embodied AI and Robot Learning (Reinforcement & Imitation Learning).
 
-I like gaming 🎮, badminton 🏸, and rock climbing 🧗‍♂️.
+I like gaming 🎮, badminton 🏸, climbing 🧗‍♂️ and hiking 🏔️ ！
 
 And I have Frosty — the cutest little cat ever :33333333
 
