@@ -46,7 +46,7 @@ And I have Frosty — the cutest little cat ever :33333333
 -->
 
 <!--[-->
-CMCL: Continual Multimodal Contrastive Learning
+SMRL: Streaming Multimodal Representation Learning
 <!--](https://docs.google.com/presentation/d/1OWy31tBuEgkkjruwrxHcb1Kc0WNHtBNNOG2g6v8so0E/edit?usp=sharing)-->
 
 Implicit Task Affordance Prediction in 3D Space 
