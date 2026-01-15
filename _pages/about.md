@@ -51,7 +51,6 @@ CMCL: Continual Multimodal Contrastive Learning
 
 Implicit Task Affordance Prediction in 3D Space 
 
-Hierarchical Classification of Near-Death Experience Narratives 
 
 <!--
 **Xiaoyang Jiang**, Mengye Ren, Brenden Lake, Manling Li
