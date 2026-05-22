@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a master's student in Data Science at New York University.
+I am currently a Research Assistant at the NYU Center for Data Science.
 
 I am interested in Multimodal Representation Learning, Continual Learning, Embodied AI and Robot Learning (Reinforcement & Imitation Learning).
 
