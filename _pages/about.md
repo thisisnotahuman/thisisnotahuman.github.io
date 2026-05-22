@@ -40,10 +40,10 @@ And I have Frosty — the cutest little cat ever :33333333
   
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Workshop on Computer Vision for Children </div><img src='images/babyclip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Workshop on Computer Vision for Children </div><img src='images/babyclip.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Continual Visual and Verbal Learning Through a Child’s Egocentric Input]
+**Continual Visual and Verbal Learning Through a Child’s Egocentric Input**
 
 **Xiaoyang Jiang**, Yanlai Yang, Kenneth A. Norman, Brenden Lake, Mengye Ren
 
@@ -57,7 +57,7 @@ And I have Frosty — the cutest little cat ever :33333333
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/mithumanoid.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fully Spiking Neural Network for Legged Robots](https://ieeexplore.ieee.org/document/10890793)
+[**Fully Spiking Neural Network for Legged Robots**](https://ieeexplore.ieee.org/document/10890793)
 
 **Xiaoyang Jiang**, **Qiang Zhang**, Jingkai Sun, Jiahang Cao, Jingtong Ma, Renjing Xu
 
@@ -72,7 +72,7 @@ And I have Frosty — the cutest little cat ever :33333333
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning](https://ieeexplore.ieee.org/abstract/document/10610948)
+[**Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning**](https://ieeexplore.ieee.org/abstract/document/10610948)
 
 **Jingkai Sun**, **Qiang Zhang**, Yiqun Duan, Xiaoyang Jiang, Chong Cheng, Renjing Xu
 
@@ -87,7 +87,7 @@ And I have Frosty — the cutest little cat ever :33333333
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023 Workshops</div><img src='images/sharc_overall_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Saliency-Guided Hidden Associative Replay for Continual Learning](https://arxiv.org/abs/2310.04334)
+[**Saliency-Guided Hidden Associative Replay for Continual Learning**](https://arxiv.org/abs/2310.04334)
 
 **Guangji Bai**, Qilong Zhao, Xiaoyang Jiang, Yifei Zhang, Liang Zhao
 
