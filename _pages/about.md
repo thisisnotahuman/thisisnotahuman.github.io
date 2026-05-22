@@ -37,43 +37,22 @@ And I have Frosty — the cutest little cat ever :33333333
 <!-- # 🔥 News
 - *2023.10.27*: &nbsp;🎉🎉 The paper *"[Saliency-Guided Hidden Associative Replay for Continual Learning](https://arxiv.org/abs/2310.04334)"* has been accepted by the NeurlPS workshop.
 - *2023.10.15*: &nbsp;🎉🎉 The code for *"[Fully Spiking Neural Network for Legged Robots](https://arxiv.org/abs/2310.05022)"* is now open source at <https://github.com/thisisnotahuman/FullySNNforLeggedRobots> ~ -->
-
-# 🚧 Ongoing Projects
-
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Continual Multimodal Contrastive Learning</div><img src='images/memorystoryboard.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
--->
-
-<!--[-->
-SMRL: Streaming Multimodal Representation Learning
-<!--](https://docs.google.com/presentation/d/1OWy31tBuEgkkjruwrxHcb1Kc0WNHtBNNOG2g6v8so0E/edit?usp=sharing)-->
-
-Implicit Task Affordance Prediction in 3D Space 
-
-
-<!--
-**Xiaoyang Jiang**, Mengye Ren, Brenden Lake, Manling Li
-
-- Developing an online segmentation framework that incrementally refines temporal coherence and semantic persistence in egocentric 4D reconstructions.  
-- Combines CUT3R-based global memory with task-driven affordance prediction, enabling subtask-level temporal grounding for embodied agents.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UAD–Sonata</div><img src='images/uadsonata.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Unsupervised Affordance Distillation on Dynamic 3D Memory](https://github.com/xj2366/uad-sonata)
-
-**Xiaoyang Jiang**, Mengye Ren, Brenden Lake
-
-- Integrates CUT3R’s dynamic reconstruction with UAD-style contrastive learning for multi-granularity affordance reasoning.  
-- The project explores language-conditioned completion and progress tracking across subtasks (e.g., “pick up cup → pour water → open fridge”).
-</div>
-</div>
--->
   
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Workshop on Computer Vision for Children </div><img src='images/babyclip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Continual Visual and Verbal Learning Through a Child’s Egocentric Input]
+
+**Xiaoyang Jiang**, Yanlai Yang, Kenneth A. Norman, Brenden Lake, Mengye Ren
+
+- We introduce BabyCLIP, a continual multimodal learning framework that learns grounded word-referent mappings from a child’s egocentric video stream in a single chronological pass. By combining streaming visual self-supervision, temporal event segmentation, replay-based continual learning, and image-text contrastive learning, BabyCLIP substantially outperforms naive streaming baselines on the SAYCam Labeled-S benchmark, demonstrating that meaningful multimodal semantic structure can emerge under cognitively realistic online learning conditions.
+- Paper accepted at CVPR 2026 Workshop on Computer Vision for Children & under review at NeurIPS 2026.
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/mithumanoid.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
