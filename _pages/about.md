@@ -43,7 +43,7 @@ And I have Frosty — the cutest little cat ever :33333333
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Workshop on Computer Vision for Children </div><img src='images/babyclip.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Continual Visual and Verbal Learning Through a Child’s Egocentric Input**
+[**Continual Visual and Verbal Learning Through a Child’s Egocentric Input**](https://arxiv.org/abs/2606.05115)
 
 **Xiaoyang Jiang**, Yanlai Yang, Kenneth A. Norman, Brenden Lake, Mengye Ren
 
