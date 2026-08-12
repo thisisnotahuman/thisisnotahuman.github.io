@@ -20,7 +20,7 @@ redirect_from:
 
 I am currently a Research Assistant at the NYU Center for Data Science.
 
-I am interested in Multimodal Representation Learning, Continual Learning, Embodied AI and Robot Learning (Reinforcement & Imitation Learning).
+I am interested in how multimodal and embodied agents can build stable, grounded representations from continuous, temporally structured experience.
 
 I like gaming 🎮, badminton 🏸, climbing 🧗‍♂️ and hiking 🏔️ ！
 
